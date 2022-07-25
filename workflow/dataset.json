@@ -1,0 +1,25 @@
+{
+  "title": "Colorado Boating Organizations",
+  "description": "Colorado Boating Organizations.",
+  "identifier": "owf-data-co-boating-orgs",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/owf/boating-orgs/",
+  "issued": "2022-07-25",
+  "keyword": [
+    "point",
+    "water",
+    "boating"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "Colorado Boating Organizations"
+    }
+  ]
+}

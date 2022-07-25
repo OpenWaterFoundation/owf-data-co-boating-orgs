@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-105.101062, 40.419889, -104.575237, 40.626689],
+  "features": [
+      {
+      "type": "Feature",
+      "bbox": [-105.095741, 40.626689, -105.095741, 40.626689],
+      "properties": {
+        "Organization": "A1 Wildwater Inc",
+        "OrganizationType": "Business",
+        "Description": "Raft trip outfitter",
+        "Programs": "",
+        "Website": "https://www.a1wildwater.com/",
+        "InBasin": "Yes",
+        "Longitude": -105.095741,
+        "Latitude": 40.626689,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.095741, 40.626689]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.575237, 40.419889, -104.575237, 40.419889],
+      "properties": {
+        "Organization": "American Whitewater",
+        "OrganizationType": "Nonprofit",
+        "Description": "River conservation and boating enthusiasts",
+        "Programs": "Whitewater river conservation",
+        "Website": "https://www.americanwhitewater.org/",
+        "InBasin": "No",
+        "Longitude": -104.575237,
+        "Latitude": 40.419889,
+        "LongitudeMain": -114.073309,
+        "LatitudeMain": 48.076506
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.575237, 40.419889]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.08152, 40.58363, -105.08152, 40.58363],
+      "properties": {
+        "Organization": "Poudre Paddlers",
+        "OrganizationType": "Nonprofit",
+        "Description": "Canoe and kayak club",
+        "Programs": "",
+        "Website": "https://www.poudrepaddlers.org/",
+        "InBasin": "Yes",
+        "Longitude": -105.08152,
+        "Latitude": 40.58363,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.08152, 40.58363]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.075684, 40.595204, -105.075684, 40.595204],
+      "properties": {
+        "Organization": "Poudre River Whitewater Park",
+        "OrganizationType": "Public",
+        "Description": "Whitewater park on Poudre River near Old Town Fort Collins",
+        "Programs": "In river activities",
+        "Website": "https://www.fcgov.com/parkplanning/poudre-river-park",
+        "InBasin": "Yes",
+        "Longitude": -105.075684,
+        "Latitude": 40.595204,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.075684, 40.595204]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.096104, 40.625229, -105.096104, 40.625229],
+      "properties": {
+        "Organization": "Rocky Mountain Adventures",
+        "OrganizationType": "Business",
+        "Description": "Raft trip outfitter, fly fishing, rentals",
+        "Programs": "",
+        "Website": "https://www.shoprma.com/",
+        "InBasin": "Yes",
+        "Longitude": -105.096104,
+        "Latitude": 40.625229,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.096104, 40.625229]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.101062, 40.625219, -105.101062, 40.625219],
+      "properties": {
+        "Organization": "Mountain Whitewater",
+        "OrganizationType": "Business",
+        "Description": "Raft trip outfitter and rentals",
+        "Programs": "",
+        "Website": "https://www.raftmw.com/",
+        "InBasin": "Yes",
+        "Longitude": -105.101062,
+        "Latitude": 40.625219,
+        "LongitudeMain": null,
+        "LatitudeMain": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.101062, 40.625219]
+      }
+    }
+  ]
+}
