@@ -10,9 +10,9 @@ This may change in the future as additional basins are added to the dataset.
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-boating-orgs.geojson`](co-boating-orgs.geojson) | Colorado boating organizations. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-boating-orgs.geojson`](co-boating-orgs.geojson) | Colorado boating organizations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/boating-orgs/co-boating-orgs.geojson) |
 
 ## Workflow ##
 
